@@ -2,7 +2,11 @@ Hi 👋 , I’m @sviiiter!
 
 I am experienced full-stack programmer from Russia
 
-- 📫 You can reach me via skype or telegram
+- 📫 You can reach me via:
+
+skype:sviiiter
+
+telegram:@sviiiter
 
 <!---
 sviiiter/sviiiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
