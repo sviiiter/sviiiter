@@ -17,8 +17,6 @@
 
   ## Currently
 
-  - Senior PHP Developer at **ROKO Labs** — building server-side features, owning backend architecture, reviewing code, working directly with
-  clients
   - Going deep on AI-assisted development with **Claude Code** — agentic workflows, multi-file editing, git automation, MCP, subagents
   - Expanding into **Go** and **Python**
 
